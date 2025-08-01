@@ -13,7 +13,6 @@ Kaggle dataset link – https://github.com/123Tanisha/IBM-PROJECT-Power_System_F
 <img src="https://github.com/123Tanisha/IBM-PROJECT-Power_System_Fault-Detection-and-Classification/blob/main/4.jpg">
 <img src="https://github.com/123Tanisha/IBM-PROJECT-Power_System_Fault-Detection-and-Classification/blob/main/5.jpg">
 <img src="https://github.com/123Tanisha/IBM-PROJECT-Power_System_Fault-Detection-and-Classification/blob/main/6.jpg">
-<img src="https://github.com/123Tanisha/IBM-PROJECT-Power_System_Fault-Detection-and-Classification/blob/main/7.jpg">
 
 ## Project PPT
 Link - https://github.com/123Tanisha/IBM-PROJECT-Power_System_Fault-Detection-and-Classification/blob/main/Power%20System%20Fault%20Detection%20and%20Classification.pdf
